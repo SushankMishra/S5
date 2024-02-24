@@ -58,8 +58,7 @@ This file includes utility functions and data transformations:
 
 ### How to Use
 1. Open and run the cells in `S5.ipynb` sequentially to train and evaluate the model.
-2. Modify hyperparameters and network architecture in `model.py` if needed.
-3. Customize data transformations and training settings in `utils.py` as required.
+2. Do not forget to add 'model.py' and 'utils.py' as auxillary files onto the Colab environment
 
 ---
 
